@@ -1,4 +1,6 @@
 ## Welcome to Coriginbe
 
 ### 网站建设中……
+或者你可以浏览[404](https://coriginbe.github.io/404)页面
 ### The website is building...
+Or you can browse the [404](https://coriginbe.github.io/404) Page.
